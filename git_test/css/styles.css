@@ -1,0 +1,11 @@
+.right-panel {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+}
+
+.left-panel {
+  width: 100px;
+  height: 100px;
+  background-color: cornflowerblue;
+}
