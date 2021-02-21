@@ -5,32 +5,35 @@
 }
 
 .container {
-  padding-left: 10vw;
-  padding-right: 10vw;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5vw;
+  padding-right: 5vw;
 }
 
-.right-panel {
-  width: 100px;
-  height: 100px;
-  background-color: brown;
-  color: azure;
-}
 
 .left-panel {
-  width: 100px;
-  height: 100px;
+  width: 7vw;
+  height: 6vw;
   background-color: cornflowerblue;
 }
 
+.midleft-panel {
+  width: 15vw;
+  height: 6vw;
+  background-color: orange;
+}
+
 .midright-panel {
-  width: 200px;
-  height: 100px;
+  width: 15vw;
+  height: 6vw;
   color: azure;
   background-color: greenyellow;
 }
 
-.midleft-panel {
-  width: 200px;
-  height: 100px;
-  background-color: orange;
+.right-panel {
+  width: 7vw;
+  height: 6vw;
+  background-color: brown;
+  color: azure;
 }
