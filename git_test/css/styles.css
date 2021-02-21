@@ -1,3 +1,14 @@
+.main-section {
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
 .right-panel {
   width: 100px;
   height: 100px;
