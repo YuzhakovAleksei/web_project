@@ -1,12 +1,25 @@
 .right-panel {
-  color: azure;
   width: 100px;
   height: 100px;
   background-color: brown;
+  color: azure;
 }
 
 .left-panel {
   width: 100px;
   height: 100px;
   background-color: cornflowerblue;
+}
+
+.midright-panel {
+  width: 200px;
+  height: 100px;
+  color: azure;
+  background-color: greenyellow;
+}
+
+.midleft-panel {
+  width: 200px;
+  height: 100px;
+  background-color: orange;
 }
