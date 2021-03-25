@@ -1,0 +1,39 @@
+.main-section {
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+
+.left-panel {
+  width: 7vw;
+  height: 6vw;
+  background-color: cornflowerblue;
+}
+
+.midleft-panel {
+  width: 15vw;
+  height: 6vw;
+  background-color: orange;
+}
+
+.midright-panel {
+  width: 15vw;
+  height: 6vw;
+  color: azure;
+  background-color: greenyellow;
+}
+
+.right-panel {
+  width: 7vw;
+  height: 6vw;
+  background-color: brown;
+  color: azure;
+}
